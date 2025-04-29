@@ -1,4 +1,4 @@
-
+![logo](https://github.com/faisalahmed54/Faisal_Ahmed/blob/main/Faisal%20bhai%20Linked%20in%20Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Faisal Ahmed</h1>
 <h3 align="center">A Passionate MERN Stack Developer</h3>
